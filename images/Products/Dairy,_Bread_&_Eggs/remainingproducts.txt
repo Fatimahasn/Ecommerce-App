@@ -1,0 +1,12 @@
+ "Milk",
+        "Milk Drinks",
+        "Curd & Yogurt",
+        "Eggs",
+        "Bread",
+        "Buns & Bakery",
+        "Butter & More",
+        "Cheese",
+        "Paneer & Tofu",
+        "Cream & Whitener",
+        "Condensed Milk",
+        "Vegan Drinks"
